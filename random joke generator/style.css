@@ -1,0 +1,24 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: #e3540c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    
+}
+.joke{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 2em;
+    padding: 5em;
+    border-radius: 5px;
+}
+.buttom{
+    margin: None;
+    padding: None;
+    background: #cfd4d8;
+    border-radius: 5em;
+}
+.buttom:hover{
+    background-color: rgb(201, 85, 85);
+}
